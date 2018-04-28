@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarRegister</string>
+    <string name="carroslxthul">Lxthul Cars.</string>
+    <string name="registrarcarros">Car Register.</string>
+    <string name="listarcarros">Showlist Cars.</string>
+    <string name="registrocarros">Car Registration.</string>
+    <string name="precio">Price</string>
+    <string name="placa">License Plate</string>
+    <string name="limpiar">Clear</string>
+    <string name="guardar">Save</string>
+    <string name="negro">BLACK</string>
+    <string name="rojo">RED</string>
+    <string name="blanco">WHITE</string>
+    <string name="mensaje_guardado">Carr added.</string>
+    <string name="error_1">Type License Plate</string>
+    <string name="error_2">Type Price.</string>
+</resources>

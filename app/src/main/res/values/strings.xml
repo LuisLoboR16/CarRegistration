@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CarRegister</string>
+    <string name="action_settings">Settings</string>
+    <string name="carroslxthul">Carros Lxthul</string>
+    <string name="registrarcarros">Registrar Carros</string>
+    <string name="listarcarros">Listar Carros</string>
+    <string name="registrocarros">Registro de Carros</string>
+    <string name="precio">Precio</string>
+    <string name="placa">Placa</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="guardar">Guardar</string>
+    <string name="bmw">BMW</string>
+    <string name="jeep">JEEP</string>
+    <string name="mazda">MAZDA</string>
+    <string name="dosmil18">2018</string>
+    <string name="dosmil17">2017</string>
+    <string name="dosmil16">2016</string>
+    <string name="negro">NEGRO</string>
+    <string name="rojo">ROJO</string>
+    <string name="blanco">BLANCO</string>
+    <string name="mensaje_guardado">Carro Guardado Exitosamente</string>
+    <string name="error_1">Digite placa.</string>
+    <string name="error_2">Digite precio.</string>
+    <string-array name="opciones">
+        <item>@string/registrarcarros</item>
+        <item>@string/listarcarros</item>
+    </string-array>
+    <string-array name="marcas">
+        <item>@string/bmw</item>
+        <item>@string/jeep</item>
+        <item>@string/mazda</item>
+    </string-array>
+    <string-array name="modelos">
+        <item>@string/dosmil16</item>
+        <item>@string/dosmil17</item>
+        <item>@string/dosmil18</item>
+    </string-array>
+    <string-array name="colores">
+        <item>@string/negro</item>
+        <item>@string/rojo</item>
+        <item>@string/blanco</item>
+    </string-array>
+</resources>
