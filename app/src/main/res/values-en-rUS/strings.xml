@@ -15,4 +15,14 @@
     <string name="mensaje_guardado">Carr added.</string>
     <string name="error_1">Type License Plate</string>
     <string name="error_2">Type Price.</string>
+    <string name="action_settings">Settings</string>
+    <string name="bmw">BMW</string>
+    <string name="jeep">JEEP</string>
+    <string name="mazda">MAZDA</string>
+    <string name="dosmil18">2018</string>
+    <string name="dosmil17">2017</string>
+    <string name="dosmil16">2016</string>
+    <string name="marca">Brand</string>
+    <string name="color">Color</string>
+    <string name="modelo">Model</string>
 </resources>

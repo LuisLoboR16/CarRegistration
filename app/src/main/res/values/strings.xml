@@ -18,9 +18,12 @@
     <string name="negro">NEGRO</string>
     <string name="rojo">ROJO</string>
     <string name="blanco">BLANCO</string>
+    <string name="marca">Marca</string>
     <string name="mensaje_guardado">Carro Guardado Exitosamente</string>
     <string name="error_1">Digite placa.</string>
     <string name="error_2">Digite precio.</string>
+    <string name="color">Color</string>
+    <string name="modelo">Modelo</string>
     <string-array name="opciones">
         <item>@string/registrarcarros</item>
         <item>@string/listarcarros</item>
